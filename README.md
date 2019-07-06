@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Start a minikube server & proxy to localhost:8080:
+### `minikube start`
+### `kubectl proxy --port=8080 &`
+
 In the project directory, you can run:
 
 ### `npm start`
